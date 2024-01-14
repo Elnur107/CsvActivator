@@ -1,0 +1,14 @@
+C:\Users\ekber\source\repos\Activator\Activator\bin\Debug\net7.0\Activator.exe
+C:\Users\ekber\source\repos\Activator\Activator\bin\Debug\net7.0\Activator.deps.json
+C:\Users\ekber\source\repos\Activator\Activator\bin\Debug\net7.0\Activator.runtimeconfig.json
+C:\Users\ekber\source\repos\Activator\Activator\bin\Debug\net7.0\Activator.dll
+C:\Users\ekber\source\repos\Activator\Activator\bin\Debug\net7.0\Activator.pdb
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.AssemblyInfoInputs.cache
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.AssemblyInfo.cs
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.csproj.CoreCompileInputs.cache
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.dll
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\refint\Activator.dll
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.pdb
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\Activator.genruntimeconfig.cache
+C:\Users\ekber\source\repos\Activator\Activator\obj\Debug\net7.0\ref\Activator.dll
